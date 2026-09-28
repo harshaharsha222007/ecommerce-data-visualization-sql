@@ -1,0 +1,31 @@
+Date,Product,OrderStatus,TotalPrice,ReferralSource
+2024-01-03,Electronics,Completed,1250.50,Google
+2024-01-05,Apparel,Shipped,340.20,Instagram
+2024-01-07,Home Goods,Completed,520.00,Email
+2024-01-09,Electronics,Pending,890.75,Affiliate
+2024-01-10,Beauty,Completed,210.50,Direct
+2024-01-12,Apparel,Cancelled,180.00,Google
+2024-01-15,Home Goods,Shipped,660.40,Instagram
+2024-01-17,Electronics,Completed,1425.25,Email
+2024-01-19,Beauty,Shipped,300.00,Affiliate
+2024-01-21,Apparel,Completed,420.80,Direct
+2024-01-24,Home Goods,Completed,710.10,Google
+2024-01-27,Electronics,Pending,980.25,Instagram
+2024-02-01,Beauty,Completed,240.75,Email
+2024-02-04,Apparel,Shipped,370.55,Affiliate
+2024-02-06,Home Goods,Cancelled,450.00,Direct
+2024-02-09,Electronics,Completed,1680.00,Google
+2024-02-12,Beauty,Shipped,260.49,Instagram
+2024-02-15,Apparel,Completed,505.40,Email
+2024-02-18,Home Goods,Completed,760.90,Affiliate
+2024-02-20,Electronics,Shipped,1190.30,Direct
+2024-02-23,Beauty,Completed,225.15,Google
+2024-02-26,Apparel,Pending,390.00,Instagram
+2024-03-01,Home Goods,Completed,600.25,Email
+2024-03-04,Electronics,Completed,1515.75,Affiliate
+2024-03-07,Beauty,Cancelled,175.60,Direct
+2024-03-10,Apparel,Completed,430.00,Google
+2024-03-13,Home Goods,Shipped,680.80,Instagram
+2024-03-15,Electronics,Completed,1330.00,Email
+2024-03-18,Beauty,Completed,245.25,Affiliate
+2024-03-20,Apparel,Shipped,399.99,Direct
